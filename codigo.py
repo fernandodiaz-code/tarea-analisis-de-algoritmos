@@ -131,7 +131,7 @@ def max_gain_professor_hash(values):
 if __name__ == "__main__":
     # Ejemplo: 2n porciones
     # Cambia estos valores por los de tu tarea para probar.
-    values = [10, 20]  # largo 8 -> n = 4
+    values = [1, 100, 1, 1, 1, 100]  # largo 8 -> n = 4
 
     print("Valores de la torta:", values)
 
